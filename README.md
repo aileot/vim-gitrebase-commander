@@ -1,5 +1,7 @@
 # Gitrebase Commander
 
+Replace gitrebase-commands (`pick`, `reword`, `edit`, ...) by simple keymappings
+
 ## Installation
 
 Use your favorite plugin manager
