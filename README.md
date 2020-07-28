@@ -10,6 +10,8 @@ Use your favorite plugin manager
 call dein#add('kaile256/vim-gitrebase-commander')
 ```
 
+or in toml,
+
 ```toml
 [[plugins]]
 repo = 'kaile256/vim-gitrebase-commander'
