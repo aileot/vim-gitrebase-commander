@@ -2,7 +2,15 @@
 
 ## Installation
 
-```dein
+Use your favorite plugin manager
+
+### For dein
+
+```vim
+call dein#add('kaile256/vim-gitrebase-commander')
+```
+
+```toml
 [[plugins]]
 repo = 'kaile256/vim-gitrebase-commander'
 ```
